@@ -1,0 +1,24 @@
+
+For various reasons, our boards may require update.  The below list contains any revision information summary.
+
+GTIE (Grid Tie Inverter Extender)
+Features include ESP8266, CT Clamp, Battery Voltage Detector, I2C, OLED, Opto-In, GPIO, D1 USB Flashing Compatible
+
+1.2210-102	Beta Release
+1.2211-104	Production Release
+
+
+
+
+
+
+
+
+Further information can be found:
+
+Website https://ditronix.net/
+WIKI https://ditronix.net/wiki/
+GitHub https://github.com/DitroniX
+Shop https://ditronix.net/shop/
+
+Dave Williams | G8PUO | DitroniX 1981-2022 | ditronix.net
